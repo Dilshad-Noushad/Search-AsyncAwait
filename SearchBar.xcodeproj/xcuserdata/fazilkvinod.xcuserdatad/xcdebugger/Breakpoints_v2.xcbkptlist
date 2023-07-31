@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D6382E87-851B-4B4D-9756-4A0898791727"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC0361BD-536C-4859-8EAC-FC902B7DEF48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchBar/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "fetchFruits()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BBC2B29-DCEF-4A33-87AA-BCF1A1CF53E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchBar/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "fetchFruits()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BBC2B29-DCEF-4A33-87AA-BCF1A1CF53E1 - 531271720def7bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "6BBC2B29-DCEF-4A33-87AA-BCF1A1CF53E1 - b73b2e6fd535c0ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "6BBC2B29-DCEF-4A33-87AA-BCF1A1CF53E1 - 3c8d631f4a1381c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6BBC2B29-DCEF-4A33-87AA-BCF1A1CF53E1 - 7149ec362a867ccf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA27E0AA-6C1C-4EE7-A8C1-A6AC79F12EC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchBar/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "fetchFruits()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA27E0AA-6C1C-4EE7-A8C1-A6AC79F12EC1 - 3c8d631f4a138e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "AA27E0AA-6C1C-4EE7-A8C1-A6AC79F12EC1 - 3c8d631f4a138e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5AD8774-F460-437C-AEDD-7B6E88103874"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchBar/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "fetchFruits()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5AD8774-F460-437C-AEDD-7B6E88103874 - 3c8d631f4a138e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "D5AD8774-F460-437C-AEDD-7B6E88103874 - 3c8d631f4a138e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchBar.ContentView.fetchFruits() async -&gt; ()"
+                  moduleName = "SearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C2D3BC4-5A61-45DF-A0D6-80C0AA2B0A70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchBar/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "fetchFruits()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E319B6D-A8AE-4BD5-9332-5762FA73C508"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchBar/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "fetchFruits()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

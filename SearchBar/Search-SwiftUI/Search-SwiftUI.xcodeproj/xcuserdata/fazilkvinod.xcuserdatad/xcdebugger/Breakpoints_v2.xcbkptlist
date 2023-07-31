@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD349245-762B-437B-8895-F828C9F51447"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9740F76E-4A88-4FD7-9721-C7F21DBF0FEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9740F76E-4A88-4FD7-9721-C7F21DBF0FEA - 25087ad421a9081e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in Search_SwiftUI.ContentView.body.getter : some"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "9740F76E-4A88-4FD7-9721-C7F21DBF0FEA - 5f4b1b985ffdfeb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in Search_SwiftUI.ContentView.body.getter : some"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "9740F76E-4A88-4FD7-9721-C7F21DBF0FEA - cb1512f0ab46541c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in Search_SwiftUI.ContentView.body.getter : some"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44ADAAA7-231F-45F2-9F92-C576DE4FEF65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2EAC0F0-326C-4E49-A241-5512928B0C96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchCharacter()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CFFC77B-E45A-489D-83CC-08856AEAB7B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchCharacter()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8CFFC77B-E45A-489D-83CC-08856AEAB7B7 - f8be05779ef0cd18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "8CFFC77B-E45A-489D-83CC-08856AEAB7B7 - eab1288359501e27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "8CFFC77B-E45A-489D-83CC-08856AEAB7B7 - 974d8ffd18ff0316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "8CFFC77B-E45A-489D-83CC-08856AEAB7B7 - 9c64548045fede17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "8CFFC77B-E45A-489D-83CC-08856AEAB7B7 - 974d8ffd18ff0316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D93F1495-B3CF-44DA-9573-5012177B076F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchCharacter()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D93F1495-B3CF-44DA-9573-5012177B076F - 974d8ffd18ff03b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "D93F1495-B3CF-44DA-9573-5012177B076F - 974d8ffd18ff03b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9882DD82-1181-451C-A4DF-F7CA396B24FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchCharacter()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51A8E62F-0556-43E9-B64A-3EB27114BC68"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search-SwiftUI/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchCharacter()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "51A8E62F-0556-43E9-B64A-3EB27114BC68 - 974d8ffd18ff03d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "51A8E62F-0556-43E9-B64A-3EB27114BC68 - 974d8ffd18ff03d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "51A8E62F-0556-43E9-B64A-3EB27114BC68 - 974d8ffd18ff03d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "51A8E62F-0556-43E9-B64A-3EB27114BC68 - 974d8ffd18ff03d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Search_SwiftUI.viewModel.fetchCharacter() async -&gt; ()"
+                  moduleName = "Search-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazilkvinod/Desktop/Learning/SearchBar/SearchBar/Search-SwiftUI/Search-SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
